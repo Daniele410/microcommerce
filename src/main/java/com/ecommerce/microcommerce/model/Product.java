@@ -3,8 +3,6 @@ package com.ecommerce.microcommerce.model;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
-
 //@JsonFilter("monFiltreDynamique")
 @Entity
 public class Product {
